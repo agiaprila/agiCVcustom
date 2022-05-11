@@ -1,0 +1,48 @@
+@media screen and (max-width : 1200px){
+    #hero h1{
+        font-size: 1.9rem;
+    }
+
+    #hero p{
+        font-size: 1rem;
+    }
+}
+
+/* tablet */
+@media screen and (max-width : 768px){
+    #skill .card h1{
+        font-size: 1.3rem;
+    }
+
+    #skill .card {
+        margin-bottom: 3px !important;
+    }
+}
+
+@media screen and (max-width : 676px){
+
+    #hero img{
+        width: 80%;
+    }
+
+    .btn-custom1{
+        width: 80%;
+    }
+
+    #about p{
+        text-align: justify !important;
+    }
+
+    hr{
+        width: 90%;
+    }
+
+    footer p{
+        font-size: 0.8rem;
+    }
+}
+
+/* smartphone */
+@media screen and (max-width : 350px){
+
+}
